@@ -26,13 +26,5 @@
 				 Find the active trucks with capacity less than 50000
 			*/
 		}
-
-		public class TruckWeight
-		{
-			public string TruckId { get; set; }
-			public decimal Capacity { get; set; }
-			public bool Active { get; set; }
-
-		}
 	}
 }
